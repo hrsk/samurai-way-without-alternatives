@@ -1,13 +1,12 @@
-import {Tracks} from "./Tracks.tsx";
+import './App.css'
 
 function App() {
 
-    return (
-        <>
-            <h1>Musicfun player</h1>
-            <Tracks/>
-        </>
-    )
+  return (
+    <>
+        SAMURAI WAY WITHOUT ALTERNATIVES
+    </>
+  )
 }
 
-export default App;
+export default App
