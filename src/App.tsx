@@ -1,12 +1,13 @@
 import './App.css'
+import {Tasks} from "./Tasks.tsx";
 
 function App() {
 
-  return (
-    <>
-        SAMURAI WAY WITHOUT ALTERNATIVES
-    </>
-  )
+    return (
+        <>
+            <Tasks/>
+        </>
+    )
 }
 
 export default App
